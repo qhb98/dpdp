@@ -1,0 +1,85 @@
+2021-07-19 17:33:47,798 [main.py         | 49] INFO: Start to run instance_44
+2021-07-19 17:33:47,800 [simulate_api.py | 60] INFO: Start time of the simulator: 2021-07-19 00:00:00, time interval:  600.00
+2021-07-19 17:33:47,822 [input_utils.py  | 48] INFO: Get 154 factories
+2021-07-19 17:33:49,959 [input_utils.py  | 52] INFO: Get 23562 routes
+2021-07-19 17:33:49,983 [input_utils.py  | 57] INFO: Get 50 vehicles
+2021-07-19 17:33:50,370 [input_utils.py  | 61] INFO: Get 2000 orders
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_1 is e2d5093fbe36431f8986ddb0e1c586be
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_2 is 7fe14b93f0f04ee7a994ef5b2c1fdb72
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_3 is fa366fc87a124d32926daa5bb093129f
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_4 is e47399648fa842b2b8f80094343d8091
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_5 is becb4f85393540b287e7329758b8d832
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_6 is 7fb0acc4e2634440ba26a7ebc0040dc2
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_7 is 6380b13f12984a08a4994fb4c126215b
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_8 is 449b516ba21b4270ac1ea1b13a89514c
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_9 is c174cfe9fcbf4f1b82095941a49f7bd9
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_10 is c0979c05f2c44e6fa7c5e42ae9aa977e
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_11 is 4a85fbdd319140dd83f55766289d365f
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_12 is 61a68b6b728b4413ba6a0f695091579c
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_13 is 76d691d6054f42d48f27e16806928020
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_14 is 433544a316b84100a11a703f1b99494a
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_15 is 680ee12255ad415ab7838647f138778e
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_16 is 433544a316b84100a11a703f1b99494a
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_17 is 8479328003a8427ca68b7600f0ac7045
+2021-07-19 17:33:50,370 [simulate_api.py | 87] INFO: Initial position of V_18 is 9b8851cf57f944c6b168ec887558ffaa
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_19 is 433901c139d54522a8f3790b07a335e5
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_20 is a6d6e6a52a0044e99991fc8fb0248027
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_21 is d1f8de642d734931be957336196d996d
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_22 is 773b0458659248f1938a61ddaeef55ef
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_23 is 6e4801bd12654045a5f3d63e2951594c
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_24 is e15ed46435514dda8bd6a420ab3e5d0b
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_25 is a678f7137f7e4debbc6bc4679cd2c1b4
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_26 is 32ab2049f3fb437881ff3912470d7840
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_27 is 773b0458659248f1938a61ddaeef55ef
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_28 is a6fefc4ac6f541cbbc7af963c13350f6
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_29 is aa61dc034d9240e9950b027ba204f5f0
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_30 is ef3171964da04ea7ac2e547f2441eff0
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_31 is 4780dc7fb51f4f5da3dea9e56c125fe6
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_32 is ffaae12a3c054da585696a96e880cf64
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_33 is c174cfe9fcbf4f1b82095941a49f7bd9
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_34 is f7ee272fbbba4f918bcd4f36ea053908
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_35 is af35b43e04df49b9b469a0018730faeb
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_36 is e47399648fa842b2b8f80094343d8091
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_37 is 00e5630fbb3c4ff4b753ac1e1c15d561
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_38 is 24b6bf044ee8473db7030d008fb422b5
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_39 is f5118fa189b742a897beec2f77de9b27
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_40 is 797fe83c0ac14a3c8724aa4d9ce0049a
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_41 is ce433928b8724d77bbe97ccb1e3312a5
+2021-07-19 17:33:50,371 [simulate_api.py | 87] INFO: Initial position of V_42 is 9829a9e1f6874f28b33b57a7a42bb49f
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_43 is 1821ddf96fe14083ba213868cd82b840
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_44 is e2327ef4f46a40908e2b8ad97e855333
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_45 is 9f1a09c368584eba9e7f10a53d55caae
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_46 is 206128e3ee9a458d9cfd053cedc0fad6
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_47 is 0c589202a6584664939d46842080d019
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_48 is 081dc54492414061ae6c6e47bf7b8db5
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_49 is 5ec55e3f537d448d95144cec1cc37f54
+2021-07-19 17:33:50,372 [simulate_api.py | 87] INFO: Initial position of V_50 is 5920212e6b0b46b198b9677bfe74f35d
+2021-07-19 17:33:50,377 [simulate_environment.py | 104] INFO: **************************************************
+2021-07-19 17:33:50,377 [simulate_environment.py | 108] INFO: cur time: 2021-07-19 00:10:00, pre time: 2021-07-19 00:00:00
+2021-07-19 17:33:50,377 [simulate_environment.py | 146] INFO: Start to update the input of 2021-07-19 00:10:00
+2021-07-19 17:33:50,379 [simulate_environment.py | 173] INFO: Get 33 unallocated order items, 0 ongoing order items, 0 completed order items
+2021-07-19 17:33:50,592 [simulate_environment.py | 298] INFO: 2021-07-19 00:10:00, Item 0000050001-1: state = 1 < 2, we can not finish the simulation
+2021-07-19 17:33:50,593 [simulate_environment.py | 104] INFO: **************************************************
+2021-07-19 17:33:50,593 [simulate_environment.py | 108] INFO: cur time: 2021-07-19 00:20:00, pre time: 2021-07-19 00:10:00
+2021-07-19 17:33:50,593 [simulate_environment.py | 146] INFO: Start to update the input of 2021-07-19 00:20:00
+2021-07-19 17:33:50,597 [simulate_environment.py | 173] INFO: Get 52 unallocated order items, 31 ongoing order items, 0 completed order items
+2021-07-19 17:33:50,738 [main.py         | 56] ERROR: Failed to run simulator
+2021-07-19 17:33:50,744 [main.py         | 57] ERROR: Error: list index out of range, Traceback (most recent call last):
+  File "/Users/mark/Projects/PY/dpdp/main.py", line 52, in <module>
+    score = simulate(Configs.factory_info_file, Configs.route_info_file, instance)
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_api.py", line 94, in simulate
+    simulate_env.run()
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_environment.py", line 116, in run
+    used_seconds, dispatch_result = self.my_dispatch(updated_input_info)  # 替换，方便测试
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_environment.py", line 264, in my_dispatch
+    schedule_baseline3()
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 573, in schedule_baseline3
+    id_to_factory)
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 524, in first_solution
+    vehicle_id_to_planned_route = optimize_solution(solution, id_to_vehicle, time_used, w, times, t)
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 551, in optimize_solution
+    opr.reinsert(w[1]*t)  # 路径间 移动订单
+  File "/Users/mark/Projects/PY/dpdp/algorithm/utils.py", line 290, in reinsert
+    cur_space = self.base_solution.space[vid_b][idx_b_p-1]
+IndexError: list index out of range
+

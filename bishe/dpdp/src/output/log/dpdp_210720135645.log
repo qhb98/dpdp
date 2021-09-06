@@ -1,0 +1,40 @@
+2021-07-20 13:56:45,010 [main.py         | 49] INFO: Start to run instance_10
+2021-07-20 13:56:45,011 [simulate_api.py | 60] INFO: Start time of the simulator: 2021-07-20 00:00:00, time interval:  600.00
+2021-07-20 13:56:45,026 [input_utils.py  | 48] INFO: Get 154 factories
+2021-07-20 13:56:47,204 [input_utils.py  | 52] INFO: Get 23562 routes
+2021-07-20 13:56:47,224 [input_utils.py  | 57] INFO: Get 5 vehicles
+2021-07-20 13:56:47,248 [input_utils.py  | 61] INFO: Get 100 orders
+2021-07-20 13:56:47,249 [simulate_api.py | 87] INFO: Initial position of V_1 is e2d5093fbe36431f8986ddb0e1c586be
+2021-07-20 13:56:47,249 [simulate_api.py | 87] INFO: Initial position of V_2 is 7fe14b93f0f04ee7a994ef5b2c1fdb72
+2021-07-20 13:56:47,249 [simulate_api.py | 87] INFO: Initial position of V_3 is fa366fc87a124d32926daa5bb093129f
+2021-07-20 13:56:47,249 [simulate_api.py | 87] INFO: Initial position of V_4 is e47399648fa842b2b8f80094343d8091
+2021-07-20 13:56:47,249 [simulate_api.py | 87] INFO: Initial position of V_5 is becb4f85393540b287e7329758b8d832
+2021-07-20 13:56:47,249 [simulate_environment.py | 104] INFO: **************************************************
+2021-07-20 13:56:47,249 [simulate_environment.py | 108] INFO: cur time: 2021-07-20 00:10:00, pre time: 2021-07-20 00:00:00
+2021-07-20 13:56:47,249 [simulate_environment.py | 146] INFO: Start to update the input of 2021-07-20 00:10:00
+2021-07-20 13:56:47,250 [simulate_environment.py | 173] INFO: Get 0 unallocated order items, 0 ongoing order items, 0 completed order items
+2021-07-20 13:56:47,285 [simulate_environment.py | 298] INFO: 2021-07-20 00:10:00, Item 0010370001-1: state = 0 < 2, we can not finish the simulation
+2021-07-20 13:56:47,285 [simulate_environment.py | 104] INFO: **************************************************
+2021-07-20 13:56:47,285 [simulate_environment.py | 108] INFO: cur time: 2021-07-20 00:20:00, pre time: 2021-07-20 00:10:00
+2021-07-20 13:56:47,285 [simulate_environment.py | 146] INFO: Start to update the input of 2021-07-20 00:20:00
+2021-07-20 13:56:47,286 [simulate_environment.py | 173] INFO: Get 4 unallocated order items, 0 ongoing order items, 0 completed order items
+2021-07-20 13:56:47,303 [main.py         | 56] ERROR: Failed to run simulator
+2021-07-20 13:56:47,309 [main.py         | 57] ERROR: Error: pop from empty list, Traceback (most recent call last):
+  File "/Users/mark/Projects/PY/dpdp/main.py", line 52, in <module>
+    score = simulate(Configs.factory_info_file, Configs.route_info_file, instance)
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_api.py", line 94, in simulate
+    simulate_env.run()
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_environment.py", line 116, in run
+    used_seconds, dispatch_result = self.my_dispatch(updated_input_info)  # 替换，方便测试
+  File "/Users/mark/Projects/PY/dpdp/src/simulator/simulate_environment.py", line 264, in my_dispatch
+    schedule_baseline3()
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 573, in schedule_baseline3
+    id_to_factory)
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 524, in first_solution
+    vehicle_id_to_planned_route = optimize_solution(solution, id_to_vehicle, time_used, w, times, t)
+  File "/Users/mark/Projects/PY/dpdp/algorithm/baseline3.py", line 551, in optimize_solution
+    opr.reinsert(w[1]*t)  # 路径间 移动订单
+  File "/Users/mark/Projects/PY/dpdp/algorithm/utils.py", line 247, in reinsert
+    node_a_p = route_a.pop(idx_a_p)  # 路线a的订单起点
+IndexError: pop from empty list
+
